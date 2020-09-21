@@ -1,3 +1,9 @@
+/*
+Nama    : RIZKY ANUGERAH
+NPM     : 140810180049
+Kelas   : A
+Program : Shift Cipher Encoder & Decoder
+**********************************************/
 #include <iostream>
 #include <string.h>
 using namespace std;
